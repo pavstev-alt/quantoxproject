@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Quantox\\": "src/Quantox"
+        }
+    },
+    "require": {
+        "league/route": "^4.1",
+        "twig/twig": "^2.5",
+        "zendframework/zend-diactoros": "^2.0"
+    }
+}
